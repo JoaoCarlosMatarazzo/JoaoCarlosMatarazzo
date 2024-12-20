@@ -3,8 +3,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaomatarazzo4_4)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-matarazzo-b63727210/)
 
-![JoaoCarlosMatarazzo GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoCarlosMatarazzo&show_icons=true&theme=highcontrast)
-
 ### Tecnologias que eu uso no meu dia 
 <div style="dis´lay: inline_block">
 <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
