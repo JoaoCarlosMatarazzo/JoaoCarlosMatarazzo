@@ -42,7 +42,7 @@ Quando não estou depurando código ou analisando diagramas de hardware, você p
 ---
 
 ### 📫 Vamos conversar?
-* 💼 LinkedIn: [Seu Nome](https://linkedin.com/in/seu-perfil)
-* 📧 E-mail: [seu.email@provedor.com](mailto:seu.email@provedor.com)
+* 💼 LinkedIn: [Seu Nome](https://www.linkedin.com/in/jo%C3%A3o-matarazzo-b63727210/)
+* 📧 E-mail: [seu.email@provedor.com](matarazzojc@gmail.com)
 
 "A ciência é a magia que funciona." ✨
