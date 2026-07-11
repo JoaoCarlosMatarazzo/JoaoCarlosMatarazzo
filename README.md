@@ -1,9 +1,6 @@
 # Olá, eu sou o João Carlos! 👋
 
 Sou Engenheiro de Computação e entusiasta apaixonado pela intersecção entre o mundo físico e o digital. Meu foco está em entender como o silício e o software se unem para dar vida a sistemas inteligentes, robótica e arquiteturas de alta performance. 
-
-Atualmente, atuo no setor de CFTV e monitoramento técnico, aplicando conceitos de redes, infraestrutura e hardware no mundo real, enquanto continuo explorando as fronteiras do desenvolvimento de software e IA.
-
 ---
 
 ### 🛠️ No que tenho trabalhado e estudado
