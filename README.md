@@ -1,6 +1,7 @@
 # Olá, eu sou o João Carlos! 👋
 
-Sou Engenheiro de Computação e entusiasta apaixonado pela intersecção entre o mundo físico e o digital. Meu foco está em entender como o silício e o software se unem para dar vida a sistemas inteligentes, robótica e arquiteturas de alta performance. 
+Sou Engenheiro de Computação e entusiasta apaixonado pela intersecção entre o mundo físico e o digital. Meu foco está em entender como o silício e o software se unem para dar vida a sistemas inteligentes, robóticos e arquiteturas de alta performance.
+
 ---
 
 ### 🛠️ No que tenho trabalhado e estudado
@@ -15,6 +16,7 @@ Sou Engenheiro de Computação e entusiasta apaixonado pela intersecção entre 
 #### 💻 Linguagens & Core
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 #### ⚙️ Engenharia & Ferramentas
@@ -35,14 +37,14 @@ Quando não estou depurando código ou analisando diagramas de hardware, você p
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de João" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dark" alt="Linguagens mais usadas" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaoCarlosMatarazzo&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de João" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCarlosMatarazzo&layout=compact&theme=dark" alt="Linguagens mais usadas" height="150" />
 </p>
 
 ---
 
 ### 📫 Vamos conversar?
-* 💼 LinkedIn: [João Matarazzo](https://www.linkedin.com/in/jo%C3%A3o-matarazzo-b63727210/)
-* 📧 E-mail: [matarazzojc@gmail.com](matarazzojc@gmail.com)
+* 💼 LinkedIn: [João Matarazzo](https://linkedin.com/in/seu-perfil)
+* 📧 E-mail: [matarazzojc@gmail.com](mailto:matarazzojc@gmail.com)
 
 "A ciência é a magia que funciona." ✨
