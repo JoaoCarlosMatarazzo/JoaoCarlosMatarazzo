@@ -44,7 +44,7 @@ Quando não estou depurando código ou analisando diagramas de hardware, você p
 ---
 
 ### 📫 Vamos conversar?
-* 💼 LinkedIn: [João Matarazzo](https://linkedin.com/in/seu-perfil)
+* 💼 LinkedIn: [João Matarazzo](https://www.linkedin.com/in/jo%C3%A3o-matarazzo-b63727210/)
 * 📧 E-mail: [matarazzojc@gmail.com](mailto:matarazzojc@gmail.com)
 
 "A ciência é a magia que funciona." ✨
