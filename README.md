@@ -1,18 +1,51 @@
-### Olá! Eu sou João Matarazzo!👋
+# Olá, eu sou o João Carlos! 👋
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaomatarazzo4_4)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-matarazzo-b63727210/)
+Sou Engenheiro de Computação e entusiasta apaixonado pela intersecção entre o mundo físico e o digital. Meu foco está em entender como o silício e o software se unem para dar vida a sistemas inteligentes, robótica e arquiteturas de alta performance. 
 
-### Tecnologias que eu uso no meu dia 
-<div style="dis´lay: inline_block">
-<img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img align="center" alt="DJango" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-<img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-<img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-</div><br/>
+Atualmente, atuo no setor de CFTV e monitoramento técnico, aplicando conceitos de redes, infraestrutura e hardware no mundo real, enquanto continuo explorando as fronteiras do desenvolvimento de software e IA.
 
-Apaixonado por otimização de performance e escalabilidade de sistemas, com uma forte curiosidade por projetos integrados com inteligência artificial. Buscando novos projetos para aplicar minhas habilidades em um ambiente desafiador.
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCarlosMatarazzo)](https://github.com/anuraghazra/github-readme-stats)
+### 🛠️ No que tenho trabalhado e estudado
+* 🤖 **IA & Robótica:** Explorando arquiteturas de redes neurais, hardware neuromórfico e como algoritmos interagem com o espaço físico.
+* ⚡ **Sistemas Embarcados & Hardware:** Curioso por otimização a nível de silício, microcontroladores e arquitetura de computadores.
+* 📊 **Análise & Engenharia:** Gosto de criar ferramentas que otimizem processos, analisem dados brutos ou automatizem tarefas do dia a dia.
+
+---
+
+### 🧰 Meu Arsenal Tecnológico
+
+#### 💻 Linguagens & Core
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+#### ⚙️ Engenharia & Ferramentas
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### 🕹️ Além do Código (Hobbies & Interesses)
+Quando não estou depurando código ou analisando diagramas de hardware, você provavelmente vai me encontrar:
+* 🎮 Buscando a satisfação de **concluir 100% das conquistas** e desvendar cada segredo em jogos desafiadores (fã de rogue-likes e mecânicas profundas).
+* 📚 Mergulhado na construção de mundos da **fantasia sombria, literatura** ou estudando as complexidades da **mitologia clássica e história romana**.
+* 🍝 Na cozinha, testando a precisão quase matemática envolvida em preparar uma excelente **massa italiana artesanal**.
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de João" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dark" alt="Linguagens mais usadas" height="150" />
+</p>
+
+---
+
+### 📫 Vamos conversar?
+* 💼 LinkedIn: [Seu Nome](https://linkedin.com/in/seu-perfil)
+* 📧 E-mail: [seu.email@provedor.com](mailto:seu.email@provedor.com)
+
+"A ciência é a magia que funciona." ✨
